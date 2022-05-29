@@ -8,7 +8,7 @@ module.exports = {
       .setDescription(`
         **Merci d'avoir accepté le règlement du serveur Adakou, n'hésite pas a inviter tous tes amis sur notre serveur !
         L'équipe Adakou te souhaite une bonne aventure sur notre serveur.** `)
-      .setImage('https://c.tenor.com/7gV7MvMk6SkAAAAC/paripi-koumei-eiko-tsukimi.gif')
+      .setImage('https://c.tenor.com/7zBGZL2de4YAAAAd/spy-x-family-spy-family.gif')
       await interaction.member.send({embeds: [embed]})
       await interaction.member.roles.add('948740493725024313');
       await interaction.reply({ content: 'Vous avez accepté les règles! Vous pouvez maintenant accéder au serveur, SO COMMENT!', ephemeral: true });
