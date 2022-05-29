@@ -7,17 +7,17 @@ module.exports = {
         const statusArray = [
             {
                 type: 'WATCHING',
-                content: 'High School DxD',
+                content: 'Paripi Koumei',
                 status: 'online'
             },
             {
                 type: 'WATCHING',
-                content: 'High School DxD',
+                content: 'Paripi Koumei',
                 status: 'dnd'
             },
             {
                 type: 'WATCHING',
-                content: 'High School DxD',
+                content: 'Paripi Koumei',
                 status: 'idle'
             },
     ];
