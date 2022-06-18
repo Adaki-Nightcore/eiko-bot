@@ -9,17 +9,7 @@ module.exports = {
                 type: 'WATCHING',
                 content: 'Spy x Family',
                 status: 'online'
-            },
-            {
-                type: 'WATCHING',
-                content: 'Spy x Family',
-                status: 'dnd'
-            },
-            {
-                type: 'WATCHING',
-                content: 'Spy x Family',
-                status: 'idle'
-            },
+            }
     ];
 
     async function pickPresence() {
